@@ -23,3 +23,6 @@ A fancy CLI quiz to test your general knowledge.
 ```sh
 npm i chalk chalk-animation figlet gradient-string inquirer nanospinner
 ```
+
+
+![Gk-Quiz_cli Image](/gk-quiz-cli/Capture.JPG "San Juan Mountains")

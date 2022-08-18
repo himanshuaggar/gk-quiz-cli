@@ -1,6 +1,6 @@
 {
   "name": "gk-quiz-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,16 @@
     "url": "https://github.com/himanshuaggar/gk-quiz-cli"
   },
   "bin": "./index.js",
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "game",
+    "quiz",
+    "command-line",
+    "shell",
+    "options",
+    "fun",
+    "modern"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
